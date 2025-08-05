@@ -22,4 +22,4 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 
 #### 👌 Thank you for checking out my README!
 
-Check out my GitHub profile: [Jayden's GitHub](https://github.com/Jay-den-1)
+My GitHub profile: [Jayden's GitHub](https://github.com/Jay-den-1)
