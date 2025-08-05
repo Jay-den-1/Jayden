@@ -7,7 +7,7 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 ## 🤩 More about me 
 
 - 🎓 I am currently in school, majoring in Computer Science
-- 💻 I currently work withw: Java, JavaScript, HTML, CSS
+- 💻 I currently work with: Java, JavaScript, HTML, CSS
 - 🧠 I’m currently learning: Python
 - 🚀 I am willing to learn more coding languages
 
@@ -20,4 +20,6 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-#### 👌 Thank you for looking at my Readme
+#### 👌 Thank you for checking out my README!
+
+Check out my GitHub profile: [Jayden's GitHub](https://github.com/Jay-den-1)
