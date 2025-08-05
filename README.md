@@ -7,7 +7,11 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 ## 🤩 More about me 
 
 - I am currently in school, majoring in coding
-- I currently know: Java, JavaScript, HTML, and CSS
+- I currently know:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - I’m currently learning: python
 - I am willing to learn more coding languages
 
