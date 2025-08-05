@@ -6,12 +6,12 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 
 ## 🤩 More about me 
 
-- I am currently in school, majoring in coding
-- I currently know: Java, JavaScript, HTML, CSS
-- I’m currently learning: python
-- I am willing to learn more coding languages
+- 🎓 I am currently in school, majoring in Computer Science
+- 💻 I currently work withw: Java, JavaScript, HTML, CSS
+- 🧠 I’m currently learning: Python
+- 🚀 I am willing to learn more coding languages
 
-### 🛠️ The Technologies & Tools That I have currently used:
+### 🛠️ Technologies & Tools I've Used
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,3 +20,4 @@ I am a highly enthusiastic developer and problem solver. I've made many projects
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
+#### 👌 Thank you for looking at my Readme
